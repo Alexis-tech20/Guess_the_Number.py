@@ -1,4 +1,4 @@
-#Guessing the number Game
+#Guessing the Number Game
 #Makes random functions available and helps generate a random number
 import random
 
